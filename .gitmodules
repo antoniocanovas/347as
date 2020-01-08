@@ -1,0 +1,20 @@
+[submodule "project-service"]
+	path = project-service
+	url = https://github.com/oca/project-service.git
+	branch = 12.0
+[submodule "l10n-spain"]
+	path = l10n-spain
+	url = https://github.com/oca/l10n-spain.git
+	branch = 12.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/oca/partner-contact.git
+	branch = 12.0
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/oca/server-tools.git
+	branch = 12.0
+[submodule "server-ux"]
+	path = server-ux
+	url = https://github.com/oca/server-ux.git
+	branch = 12.0
