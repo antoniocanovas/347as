@@ -38,3 +38,7 @@
 	path = account-financial-report
 	url = https://github.com/oca/account-financial-report.git
 	branch = 12.0
+[submodule "multi-company"]
+	path = multi-company
+	url = https://github.com/oca/multi-company.git
+	branch = 12.0
