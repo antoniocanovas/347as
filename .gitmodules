@@ -34,3 +34,7 @@
 	path = mis-builder
 	url = https://github.com/oca/mis-builder.git
 	branch = 12.0
+[submodule "account-financial-report"]
+	path = account-financial-report
+	url = https://github.com/oca/account-financial-report.git
+	branch = 12.0
