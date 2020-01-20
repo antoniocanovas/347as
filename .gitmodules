@@ -22,3 +22,7 @@
 	path = addons-ic
 	url = https://github.com/antoniocanovas/addons-ic.git
 	branch = 12.0
+[submodule "ase"]
+	path = ase
+	url = https://github.com/antoniocanovas/ase.git
+	branch = 12.0
