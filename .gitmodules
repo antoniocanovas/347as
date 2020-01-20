@@ -26,3 +26,11 @@
 	path = ase
 	url = https://github.com/antoniocanovas/ase.git
 	branch = 12.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/oca/account-financial-tools.git
+	branch = 12.0
+[submodule "mis-builder"]
+	path = mis-builder
+	url = https://github.com/oca/mis-builder.git
+	branch = 12.0
